@@ -2,7 +2,7 @@ const fetch = require('node-fetch');
 const nodemailer = require('nodemailer');
 
 const GH_TOKEN = process.env.GH_TOKEN;
-const REPO = 'elmasteo/sorteo-pc';
+const REPO = 'elmasteo/rifapapas2';
 const FILE_PATH = 'boletas.json';
 const BRANCH = 'master';
 
@@ -72,8 +72,8 @@ exports.handler = async (event) => {
     });
 
     await transporter.sendMail({
-      from: `"Sorteo PC" <${process.env.MAIL_USER}>`,
-      to: "sago980302@hotmail.com", // te lo mandas a ti mismo
+      from: `"Sorteo Papás 2" <${process.env.MAIL_USER}>`,
+      to: "hector12b07@hotmail.com", // te lo mandas a ti mismo
       subject: `Nueva reserva de boleta #${numero}`,
       html: `
         <h2>🎟️ Nueva Reserva</h2>

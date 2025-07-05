@@ -1,7 +1,7 @@
 const fetch = require('node-fetch');
 
 const GH_TOKEN = process.env.GH_TOKEN;
-const REPO = 'elmasteo/sorteo-pc'; // tu repositorio
+const REPO = 'elmasteo/rifapapas2'; // tu repositorio
 const FILE_PATH = 'boletas.json';
 const BRANCH = 'master';
 const PASSWORD = process.env.ADMIN_KEY;
