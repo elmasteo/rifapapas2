@@ -283,7 +283,9 @@
   },
   {
     "numero": "62",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Esther",
+    "telefono": "3053700529"
   },
   {
     "numero": "63",
