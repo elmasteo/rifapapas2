@@ -45,7 +45,9 @@
   },
   {
     "numero": "10",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Secretaria fafantes",
+    "telefono": "3182534366"
   },
   {
     "numero": "11",
