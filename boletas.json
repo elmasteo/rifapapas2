@@ -165,7 +165,9 @@
   },
   {
     "numero": "32",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Dereck Pineda N",
+    "telefono": "3102657654"
   },
   {
     "numero": "33",
