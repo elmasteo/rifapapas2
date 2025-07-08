@@ -317,7 +317,9 @@
   },
   {
     "numero": "75",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Jennifer Patiño",
+    "telefono": "3108133198"
   },
   {
     "numero": "76",
