@@ -277,7 +277,9 @@
   },
   {
     "numero": "64",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "dereck pineda",
+    "telefono": "3124229669"
   },
   {
     "numero": "65",
