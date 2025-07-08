@@ -121,7 +121,9 @@
   },
   {
     "numero": "27",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Secretaria fafantes",
+    "telefono": "3185343666"
   },
   {
     "numero": "28",
