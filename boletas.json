@@ -69,7 +69,9 @@
   },
   {
     "numero": "15",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Jineth Nova",
+    "telefono": "3002365312"
   },
   {
     "numero": "16",
