@@ -29,7 +29,9 @@
   },
   {
     "numero": "07",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Familia Dereck pineda",
+    "telefono": "3153885756"
   },
   {
     "numero": "08",
