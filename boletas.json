@@ -37,7 +37,9 @@
   },
   {
     "numero": "06",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Dereck Pineda",
+    "telefono": "3222955219"
   },
   {
     "numero": "07",
