@@ -11,7 +11,9 @@
   },
   {
     "numero": "02",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Familia Dereck Pineda",
+    "telefono": "3002365312"
   },
   {
     "numero": "03",
