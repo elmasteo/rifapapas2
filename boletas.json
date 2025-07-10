@@ -427,7 +427,9 @@
   },
   {
     "numero": "85",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Claudia Soler",
+    "telefono": "3224643106"
   },
   {
     "numero": "86",
