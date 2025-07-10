@@ -131,7 +131,9 @@
   },
   {
     "numero": "23",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Hector Bohorquez",
+    "telefono": "3165258717"
   },
   {
     "numero": "24",
