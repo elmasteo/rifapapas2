@@ -117,7 +117,9 @@
   },
   {
     "numero": "20",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Sandra Caicedo",
+    "telefono": "3005328699"
   },
   {
     "numero": "21",
