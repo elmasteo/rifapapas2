@@ -55,7 +55,9 @@
   },
   {
     "numero": "09",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Dufour",
+    "telefono": "7876899497"
   },
   {
     "numero": "10",
