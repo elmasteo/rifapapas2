@@ -525,6 +525,8 @@
   },
   {
     "numero": "99",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Sandra Caicedo",
+    "telefono": "3005328699"
   }
 ]
