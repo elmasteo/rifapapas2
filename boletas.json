@@ -389,7 +389,9 @@
   },
   {
     "numero": "71",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Celeste Niño",
+    "telefono": "3223805035"
   },
   {
     "numero": "72",
