@@ -157,7 +157,9 @@
   },
   {
     "numero": "26",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "David García",
+    "telefono": "3132744608"
   },
   {
     "numero": "27",
