@@ -295,7 +295,9 @@
   },
   {
     "numero": "51",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Nathalia Rojas",
+    "telefono": "3153109466"
   },
   {
     "numero": "52",
