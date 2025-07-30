@@ -543,7 +543,9 @@
   },
   {
     "numero": "97",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Adriana Rojas",
+    "telefono": "3219779439"
   },
   {
     "numero": "98",
