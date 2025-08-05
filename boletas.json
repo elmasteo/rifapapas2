@@ -525,7 +525,9 @@
   },
   {
     "numero": "93",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Helena Cruz",
+    "telefono": "3193063023"
   },
   {
     "numero": "94",
