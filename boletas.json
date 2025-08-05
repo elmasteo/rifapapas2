@@ -487,7 +487,9 @@
   },
   {
     "numero": "86",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Luz Angela Melo Castro",
+    "telefono": "3229695275"
   },
   {
     "numero": "87",
