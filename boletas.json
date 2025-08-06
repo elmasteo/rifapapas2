@@ -323,7 +323,9 @@
   },
   {
     "numero": "55",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Gaby Lesmes (lady Muñoz)",
+    "telefono": "3144924734"
   },
   {
     "numero": "56",
