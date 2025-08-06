@@ -55,7 +55,9 @@
   },
   {
     "numero": "09",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Jeisson rojas",
+    "telefono": "3112162976"
   },
   {
     "numero": "10",
