@@ -509,7 +509,9 @@
   },
   {
     "numero": "89",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Daniel Arcos",
+    "telefono": "3123159267"
   },
   {
     "numero": "90",
