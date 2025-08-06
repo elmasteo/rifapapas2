@@ -335,7 +335,9 @@
   },
   {
     "numero": "57",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Carmen Lilia Rojas Hernandez",
+    "telefono": "3118521777"
   },
   {
     "numero": "58",
