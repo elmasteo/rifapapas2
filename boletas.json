@@ -287,7 +287,9 @@
   },
   {
     "numero": "48",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Julieth Gomez",
+    "telefono": "3193666215"
   },
   {
     "numero": "49",
