@@ -299,7 +299,9 @@
   },
   {
     "numero": "50",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Lady Muñoz",
+    "telefono": "3144924734"
   },
   {
     "numero": "51",
