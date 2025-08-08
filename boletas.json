@@ -405,7 +405,9 @@
   },
   {
     "numero": "69",
-    "estado": "libre"
+    "estado": "pendiente",
+    "nombre": "Hector Bohorquez Jr",
+    "telefono": "3114433898"
   },
   {
     "numero": "70",
